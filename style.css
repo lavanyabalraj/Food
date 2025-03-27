@@ -1,0 +1,16 @@
+.two{background-color: black;color: aliceblue;}
+ul,li{display: inline;}
+li{
+    color: gray;
+    cursor:pointer;}
+li.hover{color: aliceblue;}
+.five{padding-top: 5%;}
+.one{border:20px;border-width: 2px;border :solid black;padding: 20px;display: inline-block;}
+img{width:220px;height:220px;}
+.three{border:20px;border-width: 2px;border :solid black;padding: 20px;display:inline-block;}
+img{width:220px;height:220px;}
+.for{border:20px;border-width: 2px;border :solid black;padding: 20px;display: inline-block;}
+img{width:220px;height:220px;}
+.six{background-color: black;color:aliceblue;text-align: center;}
+button{background-color:yellow;color: black;display:inline-block}
+td{color: aliceblue;}
